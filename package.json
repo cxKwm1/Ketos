@@ -1,0 +1,14 @@
+{
+  "name": "Obama",
+  "version": "1.0.0",
+  "description": "Obama in Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "xKwm1",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
